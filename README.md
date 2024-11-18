@@ -9,24 +9,36 @@ Insights (인사이트): 전기차 및 자동차 내부 소프트웨어 발전�
          
 Context (배경): 아이디어를 바탕으로 자동차 회사에 프로젝트 제안.
 
-3. Source Code (소스 코드)
+2. Source Code (소스 코드)
+   
 work 폴더 내부 참조 부탁 드립니다.
   
-4. Performance Metrics (성능 지표)
+3. Performance Metrics (성능 지표)
 
+임계값(T) 기준으로 브레이크를 밟았는지 , 안밟았는지 입력값에 대한 결과 확인
   
-7. Installation and Usage (설치 및 사용법)
-Step-by-Step Instructions (단계별 안내): 프로젝트 설치 및 실행 절차를 단계별로 설명합니다.
-Examples or Scripts (예제 및 스크립트): 일반적인 사용 예시나 스크립트를 포함하여, 사용자가 쉽게 따라할 수 있도록 돕습니다.
+4. Installation and Usage (설치 및 사용법)
+1. D드라이브 work 폴더를 풉니다
+2. 필요한 라이브러리 설치
+3. 소스코드 학습
+4. 모델 생성
+5. 결과 확인
+   
+5. References and Documentation (참고 자료 및 문서화)
 
-8. References and Documentation (참고 자료 및 문서화)
-Relevant Papers or Libraries (관련 논문 및 라이브러리): 프로젝트에 기여한 관련 논문, 라이브러리 등을 링크로 제공합니다.
-Key Algorithms or Techniques (주요 알고리즘 및 기술): 핵심적인 알고리즘이나 기법에 대한 설명을 포함합니다.
+구글링 
+이미지 전처리
+임계값 적용
+모델 학습 알고리즘 
+예측 모델 알고리즘
 
-9. Issues and Contributions (문제점 및 기여)
-Known Issues or Limitations (알려진 문제점 및 제한 사항): 현재 존재하는 문제점이나 한계점을 명시합니다.
-Encourage Contributions (기여 장려): 다른 사람들이 프로젝트에 기여할 수 있도록, 버그 제보나 개선 제안을 할 수 있는 방법을 안내합니다.
 
-10. Future Work (향후 작업)
-Potential Improvements (개선 가능성): 잠재적인 개선 사항이나 미래의 개발 방향을 간략히 논의합니다.
-Direction of Work (작업의 방향성): 프로젝트의 향후 방향성을 제시하여 앞으로의 발전 가능성을 보여줍니다.
+6. Issues and Contributions (문제점 및 기여)
+   
+Known Issues or Limitations (알려진 문제점 및 제한 사항): 임계값 조정 필수적임
+너무 낮으면 분류를 제대로 못하는 경우 발생 
+
+7. Future Work (향후 작업)
+   
+Potential Improvements (개선 가능성): 대용량 이미지를 트레이닝할 필요 있음
+Direction of Work (작업의 방향성): 대용량 데이터에 맞에 임계값 및 모델 파인 튜닝
