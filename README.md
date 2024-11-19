@@ -18,6 +18,8 @@ work 폴더 내부 참조 부탁 드립니다.
 임계값(T) 기준으로 브레이크를 밟았는지 , 안밟았는지 입력값에 대한 결과 확인
 ![Cap 2024-11-18 17-20-48-624](https://github.com/user-attachments/assets/3548b058-6010-4fc3-b1f1-fcfa9685ac84)
 
+![Uploading Cap 2024-11-19 11-32-44-585.png…]()
+
 
 4. Installation and Usage (설치 및 사용법)
 1. D드라이브 work 폴더를 풉니다
